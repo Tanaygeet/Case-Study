@@ -1,0 +1,7 @@
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\bin\Debug\Crime Analysis and Reporting System.exe.config
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\bin\Debug\Crime Analysis and Reporting System.exe
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\bin\Debug\Crime Analysis and Reporting System.pdb
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.csproj.AssemblyReference.cache
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.csproj.CoreCompileInputs.cache
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.exe
+C:\Users\Tanaygeet\source\repos\Crime Analysis and Reporting System\Crime Analysis and Reporting System\obj\Debug\Crime Analysis and Reporting System.pdb
